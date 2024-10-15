@@ -14,4 +14,5 @@ sources: [GRANT statement](https://dev.mysql.com/doc/refman/8.4/en/grant.html), 
 short privilege list: ``ALL``, ``ALTER``, ``CREATE``, ``DELETE``, ``DROP``, ``INSERT``, ``SELECT``, ``UPDATE`` 
 ```sql
 GRANT <PRIVILEGES, ...> ON <DATABASE>.<TABLE (or * for all)> TO <USER>;
+FLUSH PRIVILEGES;
 ```
