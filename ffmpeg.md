@@ -20,9 +20,9 @@ crf
 by size
 ``ffmpeg -i input.mp4 -fs <size in MB> output.mp4``
 
-by duration (without rencoding (might break some players))
+by duration
 ``ffmpeg -i input.mp4 -t <duration> output.mp4``
 
-by duration (without rencoding (might break some players))
+by duration (without rencoding (might break some players)) \
 ``ffmpeg -t <duration> -i input.mp4 output.mp4``
 
