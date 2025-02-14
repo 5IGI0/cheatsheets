@@ -2,5 +2,5 @@
 
 ## Download Sources
 
-general web: [common crawl](https://commoncrawl.org/)\
+general web (only text): [common crawl](https://commoncrawl.org/)\
 specific data: [archive org](https://archive.org/)
