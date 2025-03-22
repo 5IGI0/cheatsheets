@@ -18,7 +18,7 @@ crf
 # truncate video
 
 by size
-``ffmpeg -i input.mp4 -fs <size in MB> output.mp4``
+``ffmpeg -i input.mp4 -fs <size in byte> output.mp4``
 
 by duration
 ``ffmpeg -i input.mp4 -t <duration> output.mp4``
