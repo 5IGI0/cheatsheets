@@ -6,3 +6,6 @@ CLI:
 ## create database w/ role
 
 ``sudo -u postgres createdb -O [ROLE] -E UTF-8 [DATABASE]``
+
+## useful links
+[PG tuning](https://pgtune.leopard.in.ua/)
